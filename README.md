@@ -1,15 +1,16 @@
-# Basic Sample Hardhat Project
+# NFT Marketplace Dapp
+NFTマーケットプレイスDappのサンプルです。
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+### 技術スタック
+- Solidity （^0.8.4）
+- Hardhat
+- OpenZepplin
+- Ethers.js
+- React, Next.js
+- Tailwind CSS
+- IPFS
+- MetaMask
+- HTML, CSS, JavaScript
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+参考： [How to Build a Full Stack NFT Marketplace - V2 (2022)](https://dev.to/edge-and-node/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb)
